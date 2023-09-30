@@ -8,9 +8,9 @@ of the computer belongs too. This might be added in the future.
 
 Code is a bit messy but I am using it in prodction and works well.
 
-Usesthe following libarys:
-json
-requests
-datetime
-time
+Uses the following libarys:
+json, 
+requests, 
+datetime, 
+time, 
 tqdm
